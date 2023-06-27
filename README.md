@@ -16,3 +16,17 @@
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=yygg&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
+
+===
+
+[![GitHubStars](https://img.shields.io/github/stars/yygg/yygg?style=flat-square&logo=GitHub)](https://github.com/yygg/yygg/stargazers)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/yygg/yygg.svg)](https://github.com/yygg/yygg/pulls)
+[![license](https://img.shields.io/github/license/yygg/yygg)](https://raw.githubusercontent.com/yygg/yygg/master/LICENSE) 
+![docs](https://img.shields.io/badge/docs-xx-blue)
+
+===
+
+[RTOS]
+- [threadx](https://github.com/azure-rtos/threadx) <p align="center">  ![GitHubStars](https://img.shields.io/github/stars/azure-rtos/threadx?style=flat-square&logo=GitHub) </p>
+
+- [rt-thread](https://github.com/RT-Thread/rt-thread)     ![GitHubStars](https://img.shields.io/github/stars/RT-Thread/rt-thread?style=flat-square&logo=GitHub)
